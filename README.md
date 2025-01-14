@@ -51,4 +51,3 @@ The dataset consists of the following columns:
 
 ## Conclusion
 This analysis provides insights into the progress and expenditure of the PMGSY scheme. The visualizations highlight the distribution of road works and expenditures across different states and schemes.
-EOL
